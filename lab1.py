@@ -4,7 +4,7 @@
 - File Name: lab1.py
 - Teacher: David Steedman
 - Class: Software Engineering
-- Description: Create and use functions in Python.
+- Description: Create and use functions in Python
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 # Write a function named welcome_message that prints out "Welcome to our program!" whenever it is called.

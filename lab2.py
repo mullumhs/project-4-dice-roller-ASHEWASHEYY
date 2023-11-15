@@ -4,7 +4,7 @@
 - File Name: lab2.py
 - Teacher: David Steedman
 - Class: Software Engineering
-- Description: Create and use functions with parameters in Python.
+- Description: Create and use functions with parameters in Python
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 # Create a function named say_hello that accepts a person's name as a parameter and prints "Hello" followed by the name.
